@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FiveM Tools Collection
 
-## Getting Started
+## Overview
+This repository is a collection of tools designed to assist FiveM developers and server owners. It includes a variety of utilities aimed at simplifying and enhancing the experience of managing and developing for FiveM servers. Currently, the primary tool available is an advanced inventory tool, designed to help users easily create configuration entries for items, complete with support for animations and props.
 
-First, run the development server:
+## Features
+- **Inventory Tool**: An intuitive interface for creating and managing item configurations in FiveM. This tool supports:
+  - Animation configuration (with prop support)
+  - Exporting and importing configurations via JSON
+  - The following configurations: Ox Inventory
+- More TBD
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contributions
+Contributions are welcome. If you have improvements, additions, or problems, please feel free to:
+- **Create Pull Requests**
+- **Open Issues**
+- **Suggest Features**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Questions?
+Reach out to @marxmin on Discord.
