@@ -1,7 +1,9 @@
 # FiveM Tools Collection
 
 ## Overview
-This repository is a collection of tools designed to assist FiveM developers and server owners. It includes a variety of utilities aimed at simplifying and enhancing the experience of managing and developing for FiveM servers. Currently, the primary tool available is an advanced inventory tool, designed to help users easily create configuration entries for items, complete with support for animations and props.
+This repository is planned to be a collection of tools designed to assist FiveM developers and server owners. 
+
+Currently, the primary tool available is an inventory config creation tool, designed to help easily create config entries for items.
 
 ## Features
 - **Inventory Tool**: An intuitive interface for creating and managing item configurations in FiveM. This tool supports:
